@@ -1,2 +1,1 @@
-Línea 1: Contenido inicial
-Línea 2: Cambios en rama1
+esta es rama 1
